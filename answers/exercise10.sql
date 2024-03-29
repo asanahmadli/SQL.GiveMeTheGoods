@@ -1,0 +1,1 @@
+select PascalCode as Zip from Students;
